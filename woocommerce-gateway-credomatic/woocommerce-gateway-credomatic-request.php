@@ -53,7 +53,7 @@ return  <<<EOF
                         <input type="hidden" name="ccexp" value="$ccexp">
                         <input type="hidden" name="cvv" value="$cvv">
 						<input type="hidden" name="redirect" value="$redirect">
-                        <input type="hidden" name="type" value="auth" >                        
+                        <input type="hidden" name="type" value="sale" >                        
                         <noscript>
                                 <a href="$redirect">Click here to continue</a>
                         </noscript>                                                
